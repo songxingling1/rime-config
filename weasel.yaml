@@ -29,12 +29,12 @@ global_ascii: false                        # 切换为 ascii 模式时，是否�
 # 字体；候选项、候选窗口的行为、布局及样式
 style:
   color_scheme: mint_light_blue             # 默认配色方案
-  color_scheme_dark: mint_dark_blue         # 深色模式下，Weasel 的配色方案，Windows 10 1809+ 可用
+  color_scheme_dark: mint_light_blue         # 深色模式下，Weasel 的配色方案，Windows 10 1809+ 可用
 
   # 全局字体
   # 格式：字体1:起始码位:结束码位:字重:字形,字体2……，字体会依次 fallback
   # 详细设定请参考 <https://github.com/rime/weasel/wiki/字體設定>
-  font_face: "Segoe UI Emoji:30:39, Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Microsoft YaHei, SF Pro, Segoe UI Emoji, Noto Color Emoji"
+  font_face: "霞鹜文楷, Segoe UI Emoji:30:39, Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Microsoft YaHei, SF Pro, Segoe UI Emoji, Noto Color Emoji"
   label_font_face: "Microsoft YaHei"       # 标签字体
   comment_font_face: "Microsoft YaHei"     # 注释字体
   font_point: 12                           # 全局字体字号
@@ -43,7 +43,7 @@ style:
 
   inline_preedit: false                     # 行内显示预编辑区：true；false
   preedit_type: composition                # 预编辑区内容：composition（编码）； preview（选中的候选）；preview_all（全部候选）
-  
+
   fullscreen: false                        # 候选窗口全屏显示：true；false
   vertical_text: false                     # 竖排文本：true；false
   # text_orientation: horizontal           # 文本排列方向，效果和 `vertical_text` 相同：horizontal；vertical
@@ -52,7 +52,7 @@ style:
   vertical_text_left_to_right: false       # 竖排方向是否从左到右：true；false
   vertical_text_with_wrap: false           # 文本竖排模式下，自动换行：true；false
   vertical_auto_reverse: false             # 文本竖排模式下，候选窗口位于光标上方时倒序排列：true；false
-  
+
   label_format: "%s"                       # 标签字符：例如 %s. 效果为 1. 2. 3. ....
   mark_text: "|"                           # 标记字符，显示在选中的候选标签前，需要在配色方案中指定颜色；如该项为空字符串 "" 而配色方案中 hilited_mark_color 非透明色，则显示 Windows 11 输入法风格标记
   ascii_tip_follow_cursor: false           # 切换 ASCII 模式时，提示跟随鼠标，而非输入光标
@@ -141,24 +141,24 @@ preset_color_schemes:
     name: "蓝水鸭／Mint Light Blue"
     author: Mintimate <"Mintimate's Blog">
     # 拼音串
-    text_color: 0x6495ed 
+    text_color: 0x6495ed
     # 背景
-    back_color: 0xefefef 
+    back_color: 0xefefef
     # 预选栏编号颜色
-    label_color: 0xcac9c8 
+    label_color: 0xcac9c8
     # 边框
-    border_color: 0xefefef 
+    border_color: 0xefefef
     shadow_color: 0xb4000000
     # 注解文字
-    comment_text_color: 0xcac9c8 
+    comment_text_color: 0xcac9c8
     # 非第一候选项
-    candidate_text_color: 0x424242 
+    candidate_text_color: 0x424242
     # 拼音串高亮
-    hilited_text_color: 0xed9564 
+    hilited_text_color: 0xed9564
     # 拼音串高亮背景
-    hilited_back_color: 0xefefef 
+    hilited_back_color: 0xefefef
     # 第一候选项背景
-    hilited_candidate_back_color: 0xed9564 
+    hilited_candidate_back_color: 0xed9564
     # 第一候选项
     hilited_candidate_text_color: 0xefefef
     # 第一候选项编号颜色
@@ -166,31 +166,31 @@ preset_color_schemes:
     # 第一候选项编号颜色
     hilited_label_color: 0xcac9c8
     # 注解文字高亮
-    hilited_comment_text_color: 0xefefef 
-    
+    hilited_comment_text_color: 0xefefef
+
 
   mint_dark_blue:
     name: "黑水鸭／Mint Dark Blue"
     author: Mintimate <"Mintimate's Blog">
     # 拼音串
-    text_color: 0x6495ed 
+    text_color: 0x6495ed
     # 背景
-    back_color: 0x424242 
+    back_color: 0x424242
     # 预选栏编号颜色
-    label_color: 0xefefef 
+    label_color: 0xefefef
     # 边框
-    border_color: 0x424242 
+    border_color: 0x424242
     shadow_color: 0xb4000000
     # 注解文字
-    comment_text_color: 0xefefef 
+    comment_text_color: 0xefefef
     # 非第一候选项
     candidate_text_color: 0xefefef
     # 拼音串高亮
-    hilited_text_color: 0xc6c01a 
+    hilited_text_color: 0xc6c01a
     # 拼音串高亮背景
     hilited_back_color: 0x424242
-    # 第一候选项背景 
-    hilited_candidate_back_color: 0xc6c01a 
+    # 第一候选项背景
+    hilited_candidate_back_color: 0xc6c01a
     # 第一候选项
     hilited_candidate_text_color: 0xefefef
     # 第一候选项编号颜色
@@ -199,8 +199,8 @@ preset_color_schemes:
     hilited_label_color: 0xffffff
     # 注解文字高亮
     hilited_comment_text_color: 0xffffff
-    
-    
+
+
   mint_light_green:
     name: "碧皓青／Mint Light Green"
     author: Mintimate <"Mintimate's Blog">
@@ -221,7 +221,7 @@ preset_color_schemes:
     text_color: 0x7BAE4F                    # 拼音颜色 （inline_preedit: false）
     hilited_text_color: 0xed9564            # 选中拼音颜色 （inline_preedit: false）
 
-    
+
   mint_dark_green:
     name: "碧月青／Mint Dark Green"
     author: Mintimate <"Mintimate's Blog">

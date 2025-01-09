@@ -1,0 +1,5 @@
+patch:
+  "style/font_face": "霞鹜文楷, Segoe UI Emoji:30:39, Segoe UI Emoji:23:23, Segoe UI Emoji:2a:2a, Segoe UI Emoji:fe0f:fe0f, Segoe UI Emoji:20e3:20e3, Microsoft YaHei, SF Pro, Segoe UI Emoji, Noto Color Emoji"
+  "style/label_font_face": "霞鹜文楷"
+  "style/comment_font_face": "霞鹜文楷"
+  "style/horizontal": true
