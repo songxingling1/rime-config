@@ -15,3 +15,4 @@ import_tables:
   # 20240608 Emoji完全交友OpenCC，不再使用字典作为补充
   # - dicts/other_emoji            # Emoji(仅仅作为补充，实际使用一般是OpenCC生效)
 ...
+sudo apt purge ibus-rime
