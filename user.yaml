@@ -1,2 +1,6 @@
 var:
-  last_build_time: 1736472599
+  last_build_time: 1736480301
+  previously_selected_schema: rime_mint
+  schema_access_time:
+    rime_mint: 1736480179
+    wubi98_mint: 1736480014
