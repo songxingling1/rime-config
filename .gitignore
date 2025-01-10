@@ -10,3 +10,5 @@ build
 
 # VSCode 项目文件
 *.code-workspace
+
+user.yaml
