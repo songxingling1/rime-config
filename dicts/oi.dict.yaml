@@ -1,0 +1,423 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Oi词语
+---
+name: oi
+version: "2023.11.30"
+sort: by_weight
+...
+半平面交	ban ping mian jiao	1
+半平面相交	ban ping mian xiang jiao	1
+背包	bei bao	1
+倍增	bei zeng	1
+并查集	bing cha ji	1
+博弈论	bo yi lun	1
+布尔型	bu er xing	1
+差分	cha fen	1
+乘法逆元	cheng fa ni yuan	1
+打表	da biao	1
+单调队列	dan diao dui lie	1
+单调栈	dan diao zhan	1
+单源最短路径	dan yuan zui duan lu jing	1
+递归	di gui	1
+递推	di tui	1
+点分治	dian fen zhi	1
+动规	dong gui	1
+动态规划	dong tai gui hua	1
+动态树	dong tai shu	1
+动态凸包	dong tai tu bao	1
+队列	dui lie	1
+多重背包	duo chong bei bao	1
+二叉查找树	er cha cha zhao shu	1
+二叉堆	er cha dui	1
+二叉排序树	er cha pai xu shu	1
+二分	er fen	1
+二分答案	er fen da an	1
+二分图	er fen tu	1
+二分图最大匹配	er fen tu zui da pi pei	1
+二元决策图	er yuan jue ce tu	1
+斐波那契堆	fei bo na qi dui	1
+费马小定理	fei ma xiao ding li	1
+费用流	fei yong liu	1
+分数规划	fen shu gui hua	1
+分支	fen zhi	1
+分治	fen zhi	1
+分支结构	fen zhi jie gou	1
+负环	fu huan	1
+弗洛伊德	fu luo yi de	1
+负权环	fu quan huan	1
+概率动规	gai lv dong gui	1
+概率动态规划	gai lv dong tai gui hua	1
+概率论	gai lv lun	1
+高精	gao jing	1
+高精度	gao jing du	1
+高斯消元	gao si xiao yuan	1
+割点	ge dian	1
+割顶	ge ding	1
+构造	gou zao	1
+广度优先搜索	guang du you xian sou suo	1
+归并排序	gui bing pai xu	1
+过程	guo cheng	1
+哈希	ha xi	1
+哈希表	ha xi biao	1
+函数	han shu	1
+红黑树	hong hei shu	1
+洪水填充	hong shui tian chong	1
+后趋节点	hou qu jie dian	1
+后缀表达式	hou zhui biao da shi	1
+后缀和	hou zhui he	1
+后缀排序	hou zhui pai xu	1
+后缀数组	hou zhui shu zu	1
+后缀自动机	hou zhui zi dong ji	1
+环套树	huan tao shu	1
+集合	ji he	1
+计算几何	ji suan ji he	1
+记忆化搜索	ji yi hua sou suo	1
+剪枝	jian zhi	1
+进制	jin zhi	1
+矩阵	ju zhen	1
+矩阵乘法	ju zhen cheng fa	1
+矩阵加速	ju zhen jia su	1
+矩阵快速幂	ju zhen kuai su mi	1
+矩阵优化	ju zhen you hua	1
+卡特兰	ka te lan	1
+可并堆	ke bing dui	1
+可持久化	ke chi jiu hua	1
+可持久化平衡树	ke chi jiu hua ping heng shu	1
+可持久化线段树	ke chi jiu hua xian duan shu	1
+快速傅里叶	kuai su fu li ye	1
+快速排序	kuai su pai xu	1
+扩展欧几里得	kuo zhan ou ji li de	1
+离散化	li san hua	1
+离散数学	li san shu xue	1
+链表	lian biao	1
+卢卡斯定理	lu ka si ding li	1
+冒泡排序	mao pao pai xu	1
+莫比乌斯反演	mo bi wu si fan yan	1
+莫队	mo dui	1
+模拟	mo ni	1
+模拟退火	mo ni tui huo	1
+内存地址	nei cun di zhi	1
+逆元	ni yuan	1
+排序	pai xu	1
+配对堆	pei dui dui	1
+启发式	qi fa shi	1
+启发式合并	qi fa shi he bing	1
+启发式搜索	qi fa shi sou suo	1
+期望	qi wang	1
+期望动规	qi wang dong gui	1
+期望动态规划	qi wang dong tai gui hua	1
+前驱结点	qian qu jie dian	1
+前缀表达式	qian zhui biao da shi	1
+前缀和	qian zhui he	1
+容斥	rong chi	1
+容器	rong qi	1
+三分法	san fen fa	1
+散列表	san lie biao	1
+三维偏序	san wei pian xu	1
+筛法	shai fa	1
+深度学习	shen du xue xi	1
+深度优先搜索	shen du you xian sou suo	1
+神经网络	shen jing wang luo	1
+伸展树	shen zhan shu	1
+生成函数	sheng cheng han shu	1
+生成树	sheng cheng shu	1
+树的直径	shu de zhi jing	1
+树堆	shu dui	1
+数据结构	shu ju jie gou	1
+树链剖分	shu lian pou fen	1
+数论	shu lun	1
+树套树	shu tao shu	1
+数位动规	shu wei dong gui	1
+数位动态规划	shu wei dong tai gui hua	1
+树形动规	shu xing dong gui	1
+树形动态规划	shu xing dong tai gui hua	1
+树形结构	shu xing jie gou	1
+树形数据结构	shu xing shu ju jie gou	1
+数学	shu xue	1
+树状数组	shu zhuang shu zu	1
+数组	shu zu	1
+双向链表	shuang xiang lian biao	1
+顺序	shun xu	1
+顺序结构	shun xu jie gou	1
+搜索	sou suo	1
+素数判断	su shu pan duan	1
+缩点	suo dian	1
+贪心	tan xin	1
+替罪羊树	ti zui yang shu	1
+统计	tong ji	1
+桶排	tong pai	1
+桶排序	tong pai xu	1
+同余	tong yu	1
+头节点	tou jie dian	1
+凸包	tu bao	1
+图的遍历	tu de bian li	1
+图论	tu lun	1
+拓扑排序	tuo pu pai xu	1
+完全背包	wan quan bei bao	1
+网络流	wang luo liu	1
+网络流最大流	wang luo liu zui da liu	1
+网络最大流	wang luo zui da liu	1
+位元	wei yuan	1
+位运算	wei yun suan	1
+无向图	wu xiang tu	1
+希尔排序	xi er pai xu	1
+稀疏表	xi shu biao	1
+线段树	xian duan shu	1
+仙人掌	xian ren zhang	1
+仙人掌剖分	xian ren zhang pou fen	1
+线性递推	xian xing di tui	1
+线性动态规划	xian xing dong tai gui hua	1
+线性基	xian xing ji	1
+线性筛素数	xian xing shai su shu	1
+线性数据结构	xian xing shu ju jie gou	1
+向量	xiang liang	1
+斜率优化	xie lv you hua	1
+匈牙利算法	xiong ya li suan fa	1
+虚树	xu shu	1
+选择排序	xuan ze pai xu	1
+循环	xun huan	1
+一般图最大匹配	yi ban tu zui da pi pei	1
+有向无环图	you xiang wu huan tu	1
+整数	zheng shu	1
+整体二分	zheng ti er fen	1
+中缀表达式	zhong zhui biao da shi	1
+主席树	zhu xi shu	1
+状态压缩	zhuang tai ya suo	1
+状压	zhuang ya	1
+自动机	zi dong ji	1
+字符	zi fu	1
+字符串	zi fu chuan	1
+字符串哈希	zi fu chuan ha xi	1
+字节	zi jie	1
+组合数学	zu he shu xue	1
+最大流	zui da liu	1
+最大生成树	zui da sheng cheng shu	1
+最短路	zui duan lu	1
+最近公共祖先	zui jin gong gong zu xian	1
+最小费用最大流	zui xiao fei yong zui da liu	1
+最小割	zui xiao ge	1
+最小生成树	zui xiao sheng cheng shu	1
+左偏树	zuo pian shu	1
+闭源	bi yuan	1
+编程	bian cheng	1
+变量	bian liang	1
+编译	bian yi	1
+编译器	bian yi qi	1
+编译型语言	bian yi xing yu yan	1
+表单	biao dan	1
+常量	chang liang	1
+长整型	chang zheng xing	1
+超文本标记语言	chao wen ben biao ji yu yan	1
+超文本预处理器	chao wen ben yu chu li qi	1
+初始化	chu shi hua	1
+传参	chuan can	1
+创建	chuang jian	1
+错误	cuo wu	1
+代理服务器	dai li fu wu qi	1
+单精度浮点数	dan jing du fu dian shu	1
+单片机	dan pian ji	1
+导入	dao ru	1
+地址	di zhi	1
+定义	ding yi	1
+动态	dong tai	1
+短整型	duan zheng xing	1
+二叉树	er cha shu	1
+二进制	er jin zhi	1
+二维数组	er wei shu zu	1
+方法	fang fa	1
+访问	fang wen	1
+防注入	fang zhu ru	1
+分治算法	fen zhi suan fa	1
+浮点数	fu dian shu	1
+服务器	fu wu qi	1
+高级语言	gao ji yu yan	1
+广搜	guang sou	1
+后端	hou duan	1
+汇编语言	hui bian yu yan	1
+回溯算法	hui su suan fa	1
+继承	ji cheng	1
+监视	jian shi	1
+阶乘	jie cheng	1
+结构化查询语言	jie gou hua cha xun yu yan	1
+结构体	jie gou ti	1
+解释	jie shi	1
+解释器	jie shi qi	1
+解释型语言	jie shi xing yu yan	1
+进程	jin cheng	1
+静态	jing tai	1
+开发	kai fa	1
+开源	kai yuan	1
+控件	kong jian	1
+框架	kuang jia	1
+列表	lie biao	1
+面向对象	mian xiang dui xiang	1
+面向过程	mian xiang guo cheng	1
+命令行用户交互	ming ling hang yong hu jiao hu	1
+模块	mo kuai	1
+内存占用率	nei cun zhan yong lv	1
+内容分发网络	nei rong fen fa wang luo	1
+判断	pan duan	1
+前端	qian duan	1
+请求	qing qiu	1
+全栈	quan zhan	1
+深搜	shen sou	1
+实参	shi can	1
+十进制	shi jin zhi	1
+十六进制	shi liu jin zhi	1
+输出	shu chu	1
+数据包	shu ju bao	1
+数据库	shu ju ku	1
+数据类型	shu ju lei xing	1
+输入	shu ru	1
+双精度浮点数	shuang jing du fu dian shu	1
+算法	suan fa	1
+贪心算法	tan xin suan fa	1
+跳出循环	tiao chu xun huan	1
+调试	tiao shi	1
+图形用户界面	tu xing yong hu jie mian	1
+文件读写	wen jian du xie	1
+文件系统	wen jian xi tong	1
+下标	xia biao	1
+线程	xian cheng	1
+响应超时	xiang ying chao shi	1
+响应速度	xiang ying su du	1
+协议	xie yi	1
+形参	xing can	1
+虚拟主机	xu ni zhu ji	1
+样式	yang shi	1
+一维数组	yi wei shu zu	1
+应用程序开发	ying yong cheng xu kai fa	1
+邮件服务器	you jian fu wu qi	1
+源码	yuan ma	1
+元组	yuan zu	1
+云主机	yun zhu ji	1
+占用率	zhan yong lv	1
+整型	zheng xing	1
+指针	zhi zhen	1
+注入	zhu ru	1
+转义	zhuan yi	1
+字典	zi dian	1
+字符型	zi fu xing	1
+组件	zu jian	1
+埃拉托色尼筛	ai la tuo se ni shai	1
+爆栈	bao zhan	1
+边分治	bian fen zhi	1
+差分约束	cha fen yue shu	1
+差分约束系统	cha fen yue shu xi tong	1
+朝鲜树	chao xian shu	1
+次小生成树	ci xiao sheng cheng shu	1
+大步小步	da bu xiao bu	1
+带花树	dai hua shu	1
+单纯形法	dan chun xing fa	1
+笛卡尔树	di ka er shu	1
+多边形重心	duo bian xing zhong xin	1
+多项式求根	duo xiang shi qiu gen	1
+二分图匹配	er fen tu pi pei	1
+反素数	fan su shu	1
+斐波那契数列	fei bo na qi shu lie	1
+分块	fen kuai	1
+概率	gai lv	1
+滚动数组	gun dong shu zu	1
+汉诺塔	han nuo ta	1
+后序遍历	hou xu bian li	1
+后缀平衡树	hou zhui ping heng shu	1
+后缀树	hou zhui shu	1
+后缀仙人掌	hou zhui xian ren zhang	1
+划分数	hua fen shu	1
+划分树	hua fen shu	1
+回文自动机	hui wen zi dong ji	1
+基环树	ji huan shu	1
+计数	ji shu	1
+记搜	ji sou	1
+计算几何相关公式	ji suan ji he xiang guan gong shi	1
+卡常	ka chang	1
+卡特兰数	ka te lan shu	1
+开栈	kai zhan	1
+快排	kuai pai	1
+快速傅里叶变换	kuai su fu li ye bian huan	1
+快速数论变换	kuai su shu lun bian huan	1
+快速沃尔什变换	kuai su wo er shi bian huan	1
+括号序列	kuo hao xu lie	1
+马拉车	ma la che	1
+曼哈顿最小生成树	man ha dun zui xiao sheng cheng shu	1
+莫比乌斯函数	mo bi wu si han shu	1
+模线性方程	mo xian xing fang cheng	1
+模线性方程组	mo xian xing fang cheng zu	1
+母函数	mu han shu	1
+逆序数	ni xu shu	1
+欧拉定理	ou la ding li	1
+欧拉函数	ou la han shu	1
+欧拉路径	ou la lu jing	1
+欧拉图	ou la tu	1
+爬山算法	pa shan suan fa	1
+排列	pai lie	1
+皮克定理	pi ke ding li	1
+平面最近点对	ping mian zui jin dian dui	1
+棋盘分割	qi pan fen ge	1
+前序遍历	qian xu bian li	1
+区间最大频率	qu jian zui da pin lv	1
+取值范围	qu zhi fan wei	1
+三角形剖分	san jiao xing pou fen	1
+扫描线	sao miao xian	1
+生成树计数	sheng cheng shu ji shu	1
+使序列有序的最少交换次数	shi xu lie you xu de zui shao jiao huan ci shu	1
+树的重心	shu de zhong xin	1
+树分块	shu fen kuai	1
+树分治	shu fen zhi	1
+双连通分量	shuang lian tong fen liang	1
+双连通分支	shuang lian tong fen zhi	1
+四点共面	si dian gong mian	1
+四分数	si fen shu	1
+斯特林数	si te lin shu	1
+随机堆	sui ji dui	1
+随机化搜索	sui ji hua sou suo	1
+随机增量	sui ji zeng liang	1
+梯形剖分	ti xing pou fen	1
+稳定婚姻问题	wen ding hun yin wen ti	1
+无向图连通度	wu xiang tu lian tong du	1
+无向图连通分支	wu xiang tu lian tong fen zhi	1
+无向图找桥	wu xiang tu zhao qiao	1
+无向图最小割	wu xiang tu zui xiao ge	1
+弦图	xian tu	1
+线性方程组	xian xing fang cheng zu	1
+斜堆	xie dui	1
+辛普森积分	xin pu sen ji fen	1
+虚数	xu shu	1
+旋转卡壳	xuan zhuan qia ke	1
+一般图匹配带花树	yi ban tu pi pei dai hua shu	1
+遗传算法	yi chuan suan fa	1
+有上下界的流	you shang xia jie de liu	1
+有向图强连通分量	you xiang tu qiang lian tong fen liang	1
+有向图强连通分支	you xiang tu qiang lian tong fen zhi	1
+有向图最小点基	you xiang tu zui xiao dian ji	1
+有向图最小树形图	you xiang tu zui xiao shu xing tu	1
+原根	yuan gen	1
+约瑟夫	yue se fu	1
+约瑟夫环	yue se fu huan	1
+约瑟夫环问题	yue se fu huan wen ti	1
+整数划分	zheng shu hua fen	1
+置换群	zhi huan qun	1
+中国剩余定理	zhong guo sheng yu ding li	1
+中序遍历	zhong xu bian li	1
+周期性方程	zhou qi xing fang cheng	1
+组合	zu he	1
+最长不上升子序列	zui chang bu shang sheng zi xu lie	1
+最长不下降子序列	zui chang bu xia jiang zi xu lie	1
+最长公共递增子序列	zui chang gong gong di zeng zi xu lie	1
+最长公共子序列	zui chang gong gong zi xu lie	1
+最长回文子串	zui chang hui wen zi chuan	1
+最长上升子序列	zui chang shang sheng zi xu lie	1
+最长下降子序列	zui chang xia jiang zi xu lie	1
+最长有序子序列	zui chang you xu zi xu lie	1
+最大团问题	zui da tuan wen ti	1
+最佳边割集	zui jia bian ge ji	1
+最佳点割集	zui jia dian ge ji	1
+最少找硬币问题	zui shao zhao ying bi wen ti	1
+最小边割集	zui xiao bian ge ji	1
+最小表示法	zui xiao biao shi fa	1
+最小点割集	zui xiao dian ge ji	1
+最小费用流	zui xiao fei yong liu	1
+最小覆盖问题	zui xiao fu gai wen ti	1
+最小树形图	zui xiao shu xing tu	1
