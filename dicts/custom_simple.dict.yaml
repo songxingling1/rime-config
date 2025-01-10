@@ -11,6 +11,8 @@ import_tables:              #导入词库
    - oi                     #oi词库
    - luogu                  #洛谷词库
    - develop                #开发词语
+   - zhwiki                 #维基百科
+   - moegirl                #萌娘百科
 ...
 
 # 人名
