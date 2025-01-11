@@ -131,8 +131,9 @@ PKU	pku
 北京大学	pku
 Peking University	pku
 qp	qian pai
-qpzc	qian pai
+qpzc	qian pai zi ci
 前排	qian pai
+前排资瓷	qian pai zi ci
 RMJ	rmj
 rmj	rmj
 人品	ren ping
@@ -229,7 +230,7 @@ kg	kao gu
 好一把洛阳铲	hao yi ba luo yang chan
 膜	mo
 膜拜	mo bai
-NOIP noip
+NOIP	noip
 冒泡	mao pao
 生快	sheng kuai
 快生	kuai sheng
@@ -237,7 +238,7 @@ spfa	spfa
 upd	upd
 吸氧	xi yang
 自爆	zi bao
-资瓷	xi ci
+资瓷	zi ci	999
 祝好	zhu hao
 AFO	afo
 Aya速度	aya su du
