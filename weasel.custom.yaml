@@ -3,3 +3,4 @@ patch:
   "style/label_font_face": "霞鹜文楷"
   "style/comment_font_face": "霞鹜文楷"
   "style/horizontal": true
+  "style/inline_preedit": false

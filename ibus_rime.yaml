@@ -8,7 +8,7 @@ style:
   horizontal: true
 
   # embed preedit text in the input field (false|true).
-  inline_preedit: true
+  inline_preedit: false
 
   # `preedit_style` specifies what to display as inline preedit text.
   # display inline the input under conversion.
