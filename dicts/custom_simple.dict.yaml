@@ -7,12 +7,6 @@
 name: custom_simple
 version: "2023.11.30"
 sort: by_weight
-import_tables:              #导入词库
-   - oi                     #oi词库
-   - luogu                  #洛谷词库
-   - develop                #开发词语
-   - zhwiki                 #维基百科
-   - moegirl                #萌娘百科
 ...
 
 # 人名
@@ -31,3 +25,4 @@ Mintimate's Blog	mintimate	3
 碧月青	bi yue qing	99
 蓝水鸭	lan shui ya	99
 黑水鸭	hei shui ya	99
+测试专用文本	ce s

@@ -1,12 +1,9 @@
-# Rime dictionary
-# encoding: utf-8
-#
-# luogu词语
 ---
 name: luogu
 version: "2023.11.30"
 sort: by_weight
 ...
+
 大雾	da wu
 伦敦大雾	lun dun da wu
 ____大雾	da wu	99

@@ -4,9 +4,10 @@
 # Oi词语
 ---
 name: oi
-version: "2023.11.30"
+version: "2024.1.11"
 sort: by_weight
 ...
+
 半平面交	ban ping mian jiao	1
 半平面相交	ban ping mian xiang jiao	1
 背包	bei bao	1

@@ -21,6 +21,11 @@ import_tables:
   - dicts/division
   - dicts/people
   - dicts/other_kaomoji          # 颜文字表情（按`VV`呼出)
+  - dicts/luogu
+  - dicts/oi
+  - dicts/develop
+  - dicts/zhwiki
+  - dicts/moegirl
   # 20240608 Emoji完全交友OpenCC，不再使用字典作为补充
   # - dicts/other_emoji            # Emoji(仅仅作为补充，实际使用一般是OpenCC生效)
 ...
