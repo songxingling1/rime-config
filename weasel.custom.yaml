@@ -4,3 +4,4 @@ patch:
   "style/comment_font_face": "霞鹜文楷"
   "style/horizontal": true
   "style/inline_preedit": false
+  "style/color_schema": mint_dark_green
