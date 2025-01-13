@@ -6,6 +6,6 @@ patch:
   "style/inline_preedit": false
   "style/color_scheme_dark": mint_dark_green
   "style/layout/shadow_radius": 4
-  "style/layout/shadow_offset_x": 0
-  "style/layout/shadow_offset_y": 0
-  "preset_color_schemes/mint_dark_green/shadow_color": 0x60000000
+  "style/layout/shadow_offset_x": -1
+  "style/layout/shadow_offset_y": 1
+  "preset_color_schemes/mint_dark_green/shadow_color": 0x40000000
